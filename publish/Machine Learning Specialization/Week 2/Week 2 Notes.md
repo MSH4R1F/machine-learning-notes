@@ -1,0 +1,7 @@
+1. [[Multiple features (variables)]]
+2. [[Vectorization]]
+3. [[Gradient Descent for Multiple Linear Regression]]
+4. [[Feature Scaling]]
+5. [[Checking GD for convergence and Choosing Alpha]]
+6. [[Feature Engineering]]
+7. [[Linear Regression using Scikit-Learn]]
